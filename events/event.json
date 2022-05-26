@@ -1,0 +1,4 @@
+{
+    "message": "This is a message from outside API Gateway",
+    "body": "this would be our body"
+}
